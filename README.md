@@ -1,16 +1,9 @@
 # 🏸 Badminton 3D Project (OpenGL)
 
 ## Project Overview
-[cite_start]This repository contains a 3D computer graphics application built using **OpenGL 4.1+** and **GLFW**[cite: 35, 57]. [cite_start]The project was developed as part of **COMP 371: Computer Graphics (Summer 2023)** at **Concordia University**[cite: 1, 2, 3, 4]. 
+This repository contains a 3D computer graphics application built using **OpenGL 4.1+** and **GLFW**. The project was developed as part of **COMP 371: Computer Graphics (Summer 2023)** at **Concordia University**. 
 
-[cite_start]Building upon baseline framework mechanics, this application renders a virtual 3D environment featuring a $78\times36$ ground grid enclosed within a massive sky-blue skybox cube[cite: 33, 39, 40]. [cite_start]The scene features a modeled tennis/badminton net positioned in the middle of the grid alongside four distinct rackets[cite: 43, 44]. [cite_start]Each racket features a uniquely colored character designed from the user's name (`W`, `A`, `L`, `G`) rendered in a retro digital style hovering slightly above it[cite: 41, 46, 48, 53].
-
----
-
-## 👤 Developer Information
-* **Name:** Andre Hei Wang Law
-* **Student ID:** 4017 5600
-* **Username/ID:** L_HEIWAN
+Building upon baseline framework mechanics, this application renders a virtual 3D environment featuring a $78\times36$ ground grid enclosed within a massive sky-blue skybox cube. The scene features a modeled tennis/badminton net positioned in the middle of the grid alongside four distinct rackets. Each racket features a uniquely colored character designed from the user's name (`W`, `A`, `L`, `G`) rendered in a retro digital style hovering slightly above it.
 
 ---
 
@@ -70,6 +63,9 @@ Seamlessly alter how the geometric structures are visualized on screen:
 * `Esc` : Close application window safely
 
 ---
+
+### Demo Video
+https://github.com/user-attachments/assets/2ad27555-4233-43b1-a9c8-763e036b2cb8
 
 ## 🛠️ Technical Specifications
 * [cite_start]**Graphics API:** OpenGL 4.1+ (Core Profile) [cite: 57]
