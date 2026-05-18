@@ -7,13 +7,6 @@ Building upon baseline framework mechanics, this application renders a virtual 3
 
 ---
 
-## 📂 Project Structure & Location
-The project is built on the foundation of Lab 4 and Assignment 1 components:
-* **Visual Studio Solution:** `\Lab04\Lab_Framework\VS2017\Labs.sln`
-* **Main Source Code:** `\Lab04\Lab_Framework\Source\lab04.cpp`
-
----
-
 ## 🎮 Controls Guide
 
 ### 🎥 Select Racket & Camera Views
