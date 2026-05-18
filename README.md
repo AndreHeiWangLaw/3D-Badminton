@@ -17,11 +17,11 @@ The project is built on the foundation of Lab 4 and Assignment 1 components:
 ## 🎮 Controls Guide
 
 ### 🎥 Select Racket & Camera Views
-[cite_start]Pressing keys `1` through `4` changes both the focus of your camera and selects the active racket model[cite: 51, 55].
-* [cite_start]`1` : Focuses 1st person view on **Racket 1** (Character: **W**) *(Default Active)* [cite: 55]
-* [cite_start]`2` : Focuses 1st person view on **Racket 2** (Character: **A**) [cite: 55]
-* [cite_start]`3` : Focuses 1st person view on **Racket 3** (Character: **L**) [cite: 55]
-* [cite_start]`4` : Focuses 1st person view on **Racket 4** (Character: **G**) [cite: 55]
+Pressing keys `1` through `4` changes both the focus of your camera and selects the active racket model.
+* `1` : Focuses 1st person view on **Racket 1** (Character: **W**) *(Default Active)* 
+* `2` : Focuses 1st person view on **Racket 2** (Character: **A**) 
+* `3` : Focuses 1st person view on **Racket 3** (Character: **L**) 
+* `4` : Focuses 1st person view on **Racket 4** (Character: **G**) 
 * `5` : Switch to **World View 1** *(The last selected racket 1-4 remains active)*
 * `6` : Switch to **World View 2** *(The last selected racket 1-4 remains active)*
 
@@ -36,13 +36,13 @@ The project is built on the foundation of Lab 4 and Assignment 1 components:
 * `d` : Move **Right** along the X-axis
 
 ### 🔄 Model Rotation
-[cite_start]The character models rotate natively alongside their corresponding rackets[cite: 47]:
+The character models rotate natively alongside their corresponding rackets:
 * **Z-Axis Rotation:**
   * `q` : Rotate **Left**
   * `e` : Rotate **Right**
 * **Y-Axis Rotation (Clockwise/Anti-Clockwise):**
-  * [cite_start]`z` : Rotate **Left** [cite: 52]
-  * [cite_start]`c` : Rotate **Right** [cite: 52]
+  * `z` : Rotate **Left** 
+  * `c` : Rotate **Right** 
 
 ### 🌍 World Camera Orientation & Zoom
 * `Left Arrow` / `Right Arrow` : Orientate camera left / right
@@ -68,7 +68,7 @@ Seamlessly alter how the geometric structures are visualized on screen:
 https://github.com/user-attachments/assets/2ad27555-4233-43b1-a9c8-763e036b2cb8
 
 ## 🛠️ Technical Specifications
-* [cite_start]**Graphics API:** OpenGL 4.1+ (Core Profile) [cite: 57]
-* [cite_start]**Windowing & Input:** GLFW [cite: 35]
-* [cite_start]**Buffering:** Double buffering enabled for smooth animation tracking [cite: 35]
-* [cite_start]**Depth Testing:** Perspective projection view utilizing hidden surface removal (depth testing) [cite: 37]
+* **Graphics API:** OpenGL 4.1+ (Core Profile) 
+* **Windowing & Input:** GLFW 
+* **Buffering:** Double buffering enabled for smooth animation tracking 
+* **Depth Testing:** Perspective projection view utilizing hidden surface removal (depth testing)
